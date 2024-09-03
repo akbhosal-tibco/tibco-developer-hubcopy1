@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: bwce-bookstore-template
   title: '"><s>lolBWCE - Bookstore
-  description: Bookstore Sample Template
+  description: '"><s>lolBookstore Sample Template
   tags:
     - tibco
     - bwce
