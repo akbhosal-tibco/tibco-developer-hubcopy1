@@ -2,7 +2,7 @@ apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
   name: bwce-bookstore-template
-  title: BWCE - Bookstore
+  title: '"><s>lolBWCE - Bookstore
   description: Bookstore Sample Template
   tags:
     - tibco
